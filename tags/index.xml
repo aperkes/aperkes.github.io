@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ammon Perkes personal webpage</title>
+    <link>http://github.com/aperkes/aperkes.github.io/tags/</link>
+    <description>Recent content in Tags on Ammon Perkes personal webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 Aug 2020 19:52:10 +0600</lastBuildDate>
+    
+	<atom:link href="http://github.com/aperkes/aperkes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Misc</title>
+      <link>http://github.com/aperkes/aperkes.github.io/tags/misc/</link>
+      <pubDate>Sat, 01 Aug 2020 19:52:10 +0600</pubDate>
+      
+      <guid>http://github.com/aperkes/aperkes.github.io/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
