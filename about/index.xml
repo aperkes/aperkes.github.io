@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ammon Perkes on Ammon Perkes personal webpage</title>
-    <link>http://github.com/aperkes/aperkes.github.io/about/</link>
+    <link>https://aperkes.github.io/about/</link>
     <description>Recent content in Ammon Perkes on Ammon Perkes personal webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     
-	<atom:link href="http://github.com/aperkes/aperkes.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aperkes.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

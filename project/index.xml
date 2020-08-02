@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ammon Perkes personal webpage</title>
-    <link>http://github.com/aperkes/aperkes.github.io/project/</link>
+    <link>https://aperkes.github.io/project/</link>
     <description>Recent content in Projects on Ammon Perkes personal webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     
-	<atom:link href="http://github.com/aperkes/aperkes.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aperkes.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agent based Simulation</title>
-      <link>http://github.com/aperkes/aperkes.github.io/project/behavioral-simulation/</link>
+      <link>https://aperkes.github.io/project/behavioral-simulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://github.com/aperkes/aperkes.github.io/project/behavioral-simulation/</guid>
+      <guid>https://aperkes.github.io/project/behavioral-simulation/</guid>
       <description>The Puzzle of Monogamy Cowbirds are monogamous, but as far as we know there is no parental care from males or females, and no obvious contribution from males to females outside of gene transfer.</description>
     </item>
     
     <item>
       <title>Analyzing Human Observations</title>
-      <link>http://github.com/aperkes/aperkes.github.io/project/aviary-data-mine/</link>
+      <link>https://aperkes.github.io/project/aviary-data-mine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://github.com/aperkes/aperkes.github.io/project/aviary-data-mine/</guid>
+      <guid>https://aperkes.github.io/project/aviary-data-mine/</guid>
       <description>Careful Analysis of Aviary Data A lot of behavioral data exists that can be used to test hypotheses or identify new ones for future experiments. Often this comes down to wrangling old data and looking at it in new ways.</description>
     </item>
     
     <item>
       <title>Cowbird husbandry</title>
-      <link>http://github.com/aperkes/aperkes.github.io/project/cowbird-housing/</link>
+      <link>https://aperkes.github.io/project/cowbird-housing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://github.com/aperkes/aperkes.github.io/project/cowbird-housing/</guid>
+      <guid>https://aperkes.github.io/project/cowbird-housing/</guid>
       <description>Solutions for trapping and studying cowbirds Prior to joining the lab, neither I nor anyone in the lab had trapped or housed cowbirds. The older Schmidt lab work had been done in collaboration with David White, who was at the time located nearby, so when we were setting out on our own, there were a lot of new things to learn.</description>
     </item>
     
     <item>
       <title>Posture Analysis</title>
-      <link>http://github.com/aperkes/aperkes.github.io/project/csd-analysis/</link>
+      <link>https://aperkes.github.io/project/csd-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://github.com/aperkes/aperkes.github.io/project/csd-analysis/</guid>
+      <guid>https://aperkes.github.io/project/csd-analysis/</guid>
       <description>Posture in a box Cowbirds, like many birds, perform Copulation Solicitation Displays in response to sound playbacks. One of the original aims of our cowbird work was to record neural activity and correlate it with CSD.</description>
     </item>
     
     <item>
       <title>Smart Aviary</title>
-      <link>http://github.com/aperkes/aperkes.github.io/project/smart-aviary/</link>
+      <link>https://aperkes.github.io/project/smart-aviary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://github.com/aperkes/aperkes.github.io/project/smart-aviary/</guid>
+      <guid>https://aperkes.github.io/project/smart-aviary/</guid>
       <description>A new approach to behavioral observation What started as a bit of a pipe dream has grown into a fully fledged project. I joined the lab to have the opportunity to develop an aviary that could capture all behavioral observations and provide an enormous dataset for behavioral analysis.</description>
     </item>
     
     <item>
       <title>The &#39;Song&#39; System</title>
-      <link>http://github.com/aperkes/aperkes.github.io/project/song-system/</link>
+      <link>https://aperkes.github.io/project/song-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://github.com/aperkes/aperkes.github.io/project/song-system/</guid>
+      <guid>https://aperkes.github.io/project/song-system/</guid>
       <description>The not so dedicated song system This was actually the first project I worked on, and continues to be a major area of research in the lab, although my focus is more on behavior.</description>
     </item>
     
