@@ -31,16 +31,7 @@
     </item>
     
     <item>
-      <title>Agent based Simulation</title>
-      <link>https://aperkes.github.io/project/behavioral-simulation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aperkes.github.io/project/behavioral-simulation/</guid>
-      <description>The Puzzle of Monogamy Cowbirds are monogamous, but as far as we know there is no parental care from males or females, and no obvious contribution from males to females outside of gene transfer.</description>
-    </item>
-    
-    <item>
-      <title>Analyzing Human Observations</title>
+      <title>Analysis of Human Observations</title>
       <link>https://aperkes.github.io/project/aviary-data-mine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -73,6 +64,15 @@
       
       <guid>https://aperkes.github.io/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
+    </item>
+    
+    <item>
+      <title>Modeling Social Behavior</title>
+      <link>https://aperkes.github.io/project/behavioral-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aperkes.github.io/project/behavioral-simulation/</guid>
+      <description>The Puzzle of Monogamy Cowbirds are monogamous, but as far as we know there is no parental care from males or females, and no obvious contribution from males to females outside of gene transfer.</description>
     </item>
     
     <item>

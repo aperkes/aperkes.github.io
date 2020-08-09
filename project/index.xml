@@ -12,16 +12,7 @@
     
     
     <item>
-      <title>Agent based Simulation</title>
-      <link>https://aperkes.github.io/project/behavioral-simulation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aperkes.github.io/project/behavioral-simulation/</guid>
-      <description>The Puzzle of Monogamy Cowbirds are monogamous, but as far as we know there is no parental care from males or females, and no obvious contribution from males to females outside of gene transfer.</description>
-    </item>
-    
-    <item>
-      <title>Analyzing Human Observations</title>
+      <title>Analysis of Human Observations</title>
       <link>https://aperkes.github.io/project/aviary-data-mine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -36,6 +27,15 @@
       
       <guid>https://aperkes.github.io/project/cowbird-housing/</guid>
       <description>Solutions for trapping and studying cowbirds Prior to joining the lab, neither I nor anyone in the lab had trapped or housed cowbirds. The older Schmidt lab work had been done in collaboration with David White, who was at the time located nearby, so when we were setting out on our own, there were a lot of new things to learn.</description>
+    </item>
+    
+    <item>
+      <title>Modeling Social Behavior</title>
+      <link>https://aperkes.github.io/project/behavioral-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aperkes.github.io/project/behavioral-simulation/</guid>
+      <description>The Puzzle of Monogamy Cowbirds are monogamous, but as far as we know there is no parental care from males or females, and no obvious contribution from males to females outside of gene transfer.</description>
     </item>
     
     <item>
