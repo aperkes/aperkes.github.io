@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 09 Aug 2020 12:15:10 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 11:15:10 +0600</lastBuildDate>
     
 	<atom:link href="https://aperkes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data</title>
+      <link>https://aperkes.github.io/tags/data/</link>
+      <pubDate>Wed, 21 Oct 2020 11:15:10 +0600</pubDate>
+      
+      <guid>https://aperkes.github.io/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>https://aperkes.github.io/tags/science/</link>
+      <pubDate>Wed, 21 Oct 2020 11:15:10 +0600</pubDate>
+      
+      <guid>https://aperkes.github.io/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://aperkes.github.io/tags/videos/</link>
+      <pubDate>Wed, 21 Oct 2020 11:15:10 +0600</pubDate>
+      
+      <guid>https://aperkes.github.io/tags/videos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Analysis</title>
@@ -18,15 +45,6 @@
       <pubDate>Sun, 09 Aug 2020 12:15:10 +0600</pubDate>
       
       <guid>https://aperkes.github.io/tags/analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>https://aperkes.github.io/tags/data/</link>
-      <pubDate>Sun, 09 Aug 2020 12:15:10 +0600</pubDate>
-      
-      <guid>https://aperkes.github.io/tags/data/</guid>
       <description></description>
     </item>
     
