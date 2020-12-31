@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aperkes.github.io/blog/blog-post-3/</loc>
-    <lastmod>2020-10-21T11:15:10+06:00</lastmod>
+    <loc>https://aperkes.github.io/blog/blog-post-4/</loc>
+    <lastmod>2020-12-31T12:37:10+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://aperkes.github.io/</loc>
-    <lastmod>2020-10-21T11:15:10+06:00</lastmod>
+    <lastmod>2020-12-31T12:37:10+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://aperkes.github.io/categories/</loc>
+    <lastmod>2020-12-31T12:37:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aperkes.github.io/tags/misc/</loc>
+    <lastmod>2020-12-31T12:37:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aperkes.github.io/blog/</loc>
+    <lastmod>2020-12-31T12:37:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aperkes.github.io/categories/phd-thoughts/</loc>
+    <lastmod>2020-12-31T12:37:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aperkes.github.io/tags/</loc>
+    <lastmod>2020-12-31T12:37:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aperkes.github.io/blog/blog-post-3/</loc>
     <lastmod>2020-10-21T11:15:10+06:00</lastmod>
   </url>
   
@@ -28,22 +53,12 @@
   </url>
   
   <url>
-    <loc>https://aperkes.github.io/blog/</loc>
-    <lastmod>2020-10-21T11:15:10+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aperkes.github.io/tags/science/</loc>
     <lastmod>2020-10-21T11:15:10+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://aperkes.github.io/categories/science/</loc>
-    <lastmod>2020-10-21T11:15:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aperkes.github.io/tags/</loc>
     <lastmod>2020-10-21T11:15:10+06:00</lastmod>
   </url>
   
@@ -59,16 +74,6 @@
   
   <url>
     <loc>https://aperkes.github.io/blog/blog-post-2/</loc>
-    <lastmod>2020-08-09T12:15:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aperkes.github.io/tags/misc/</loc>
-    <lastmod>2020-08-09T12:15:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aperkes.github.io/categories/phd-thoughts/</loc>
     <lastmod>2020-08-09T12:15:10+06:00</lastmod>
   </url>
   
