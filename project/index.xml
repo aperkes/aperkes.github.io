@@ -6,11 +6,7 @@
     <description>Recent content in Projects on Ammon Perkes personal webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    
-	<atom:link href="https://aperkes.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright><atom:link href="https://aperkes.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis of Human Observations</title>
       <link>https://aperkes.github.io/project/aviary-data-mine/</link>
