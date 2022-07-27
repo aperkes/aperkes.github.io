@@ -6,6 +6,10 @@
     <description>Recent content in Our Pricing on Ammon Perkes personal webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright><atom:link href="https://aperkes.github.io/pricing/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    
+	<atom:link href="https://aperkes.github.io/pricing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
