@@ -8,18 +8,13 @@
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     <lastBuildDate>Wed, 27 Jul 2022 11:07:10 +0600</lastBuildDate>
-    
-	<atom:link href="https://aperkes.github.io/jfm/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://aperkes.github.io/jfm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How not to make carbon fiber electrodes</title>
       <link>https://aperkes.github.io/jfm/perkes.a.carbonfiber/</link>
       <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
-      
       <guid>https://aperkes.github.io/jfm/perkes.a.carbonfiber/</guid>
       <description>In pursuit of stable, long term neural recordings, I tried to implement and improve Tim Gardner&amp;rsquo;s carbon fiber electrodes. In retrospect, I should have just worked harder to find a place to print the original.</description>
     </item>
-    
   </channel>
 </rss>
