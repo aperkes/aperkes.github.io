@@ -7,105 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 21 Oct 2020 11:15:10 +0600</lastBuildDate><atom:link href="https://aperkes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 11:07:10 +0600</lastBuildDate>
+    <atom:link href="https://aperkes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How not to make carbon fiber electrodes</title>
+      <link>https://aperkes.github.io/jfm/perkes.a.carbonfiber/</link>
+      <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/jfm/perkes.a.carbonfiber/</guid>
+      <description>In pursuit of stable, long term neural recordings, I tried to implement and improve Tim Gardner&amp;rsquo;s carbon fiber electrodes. In retrospect, I should have just worked harder to find a place to print the original.</description>
+    </item>
     <item>
       <title>3 years of Science in 6 minutes</title>
       <link>https://aperkes.github.io/blog/blog-post-3/</link>
       <pubDate>Wed, 21 Oct 2020 11:15:10 +0600</pubDate>
-      
       <guid>https://aperkes.github.io/blog/blog-post-3/</guid>
       <description>Back in July, I got to present at the Animal Behavior Society (ABS) virtual conference. ABS is always a bit intense, not because the people are mean or intimidating, I feel like ABS is one of the most welcoming conferences I&amp;rsquo;ve participated in.</description>
     </item>
-    
     <item>
       <title>Exploration is for suckers</title>
       <link>https://aperkes.github.io/blog/blog-post-2/</link>
       <pubDate>Sun, 09 Aug 2020 12:15:10 +0600</pubDate>
-      
       <guid>https://aperkes.github.io/blog/blog-post-2/</guid>
       <description>I love exploration. When I was a kid, I spent most of my time wandering around the roads and woods near my house. I would leave after school on my bike and or roller blades and try to find roads parts of my neighborhood I&amp;rsquo;d never seen, or I would walk along the creek that ran though my backyard all the way to where it met the Pearl River.</description>
     </item>
-    
     <item>
       <title>Blogging from the command line</title>
       <link>https://aperkes.github.io/blog/blog-post-1/</link>
       <pubDate>Sat, 01 Aug 2020 19:52:10 +0600</pubDate>
-      
       <guid>https://aperkes.github.io/blog/blog-post-1/</guid>
       <description>When I was 13 or so, I started a Livejournal. I don&amp;rsquo;t remember who got me into Livejournal, but I spent hours writing updates, working on my background, color scheme, and profile pics.</description>
     </item>
-    
     <item>
       <title>Analysis of Human Observations</title>
       <link>https://aperkes.github.io/project/aviary-data-mine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aperkes.github.io/project/aviary-data-mine/</guid>
       <description>Careful Analysis of Aviary Data A lot of behavioral data exists that can be used to test hypotheses or identify new ones for future experiments. Often this comes down to wrangling old data and looking at it in new ways.</description>
     </item>
-    
     <item>
       <title>Cowbird husbandry</title>
       <link>https://aperkes.github.io/project/cowbird-housing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aperkes.github.io/project/cowbird-housing/</guid>
       <description>Solutions for trapping and studying cowbirds Prior to joining the lab, neither I nor anyone in the lab had trapped or housed cowbirds. The older Schmidt lab work had been done in collaboration with David White, who was at the time located nearby, so when we were setting out on our own, there were a lot of new things to learn.</description>
     </item>
-    
     <item>
       <title>John Doe</title>
       <link>https://aperkes.github.io/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aperkes.github.io/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
-    
     <item>
       <title>Mark Dinn</title>
       <link>https://aperkes.github.io/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aperkes.github.io/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
-    
     <item>
       <title>Modeling Social Behavior</title>
       <link>https://aperkes.github.io/project/behavioral-simulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aperkes.github.io/project/behavioral-simulation/</guid>
       <description>The Puzzle of Monogamy Cowbirds are monogamous, but as far as we know there is no parental care from males or females, and no obvious contribution from males to females outside of gene transfer.</description>
     </item>
-    
     <item>
       <title>Posture Analysis</title>
       <link>https://aperkes.github.io/project/csd-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aperkes.github.io/project/csd-analysis/</guid>
       <description>Posture in a box Cowbirds, like many birds, perform Copulation Solicitation Displays in response to sound playbacks. One of the original aims of our cowbird work was to record neural activity and correlate it with CSD.</description>
     </item>
-    
     <item>
       <title>Smart Aviary</title>
       <link>https://aperkes.github.io/project/smart-aviary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aperkes.github.io/project/smart-aviary/</guid>
       <description>A new approach to behavioral observation What started as a bit of a pipe dream has grown into a fully fledged project. I joined the lab to have the opportunity to develop an aviary that could capture all behavioral observations and provide an enormous dataset for behavioral analysis.</description>
     </item>
-    
     <item>
       <title>The &#39;Song&#39; System</title>
       <link>https://aperkes.github.io/project/song-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://aperkes.github.io/project/song-system/</guid>
       <description>The not so dedicated song system This was actually the first project I worked on, and continues to be a major area of research in the lab, although my focus is more on behavior.</description>
     </item>
-    
   </channel>
 </rss>

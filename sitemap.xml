@@ -2,13 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aperkes.github.io/blog/blog-post-3/</loc>
-    <lastmod>2020-10-21T11:15:10+06:00</lastmod>
+    <loc>https://aperkes.github.io/tags/3d-printing/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
   </url><url>
     <loc>https://aperkes.github.io/</loc>
-    <lastmod>2020-10-21T11:15:10+06:00</lastmod>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://aperkes.github.io/tags/carbon-fiber/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
   </url><url>
     <loc>https://aperkes.github.io/categories/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://aperkes.github.io/tags/electrodes/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://aperkes.github.io/tags/electrophysiology/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://aperkes.github.io/categories/electrophysiology/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://aperkes.github.io/jfm/perkes.a.carbonfiber/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://aperkes.github.io/categories/neuroscience/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://aperkes.github.io/tags/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://aperkes.github.io/jfm/</loc>
+    <lastmod>2022-07-27T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>https://aperkes.github.io/blog/blog-post-3/</loc>
     <lastmod>2020-10-21T11:15:10+06:00</lastmod>
   </url><url>
     <loc>https://aperkes.github.io/tags/data/</loc>
@@ -24,9 +51,6 @@
     <lastmod>2020-10-21T11:15:10+06:00</lastmod>
   </url><url>
     <loc>https://aperkes.github.io/categories/science/</loc>
-    <lastmod>2020-10-21T11:15:10+06:00</lastmod>
-  </url><url>
-    <loc>https://aperkes.github.io/tags/</loc>
     <lastmod>2020-10-21T11:15:10+06:00</lastmod>
   </url><url>
     <loc>https://aperkes.github.io/tags/videos/</loc>
