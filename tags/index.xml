@@ -8,69 +8,90 @@
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     <lastBuildDate>Wed, 27 Jul 2022 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://aperkes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://aperkes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>3D Printing</title>
       <link>https://aperkes.github.io/tags/3d-printing/</link>
       <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
+      
       <guid>https://aperkes.github.io/tags/3d-printing/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Carbon Fiber</title>
       <link>https://aperkes.github.io/tags/carbon-fiber/</link>
       <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
+      
       <guid>https://aperkes.github.io/tags/carbon-fiber/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Electrodes</title>
       <link>https://aperkes.github.io/tags/electrodes/</link>
       <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
+      
       <guid>https://aperkes.github.io/tags/electrodes/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Electrophysiology</title>
       <link>https://aperkes.github.io/tags/electrophysiology/</link>
       <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
+      
       <guid>https://aperkes.github.io/tags/electrophysiology/</guid>
       <description></description>
     </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>https://aperkes.github.io/tags/misc/</link>
+      <pubDate>Thu, 31 Dec 2020 12:37:10 +0600</pubDate>
+      
+      <guid>https://aperkes.github.io/tags/misc/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Data</title>
       <link>https://aperkes.github.io/tags/data/</link>
       <pubDate>Wed, 21 Oct 2020 11:15:10 +0600</pubDate>
+      
       <guid>https://aperkes.github.io/tags/data/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Science</title>
       <link>https://aperkes.github.io/tags/science/</link>
       <pubDate>Wed, 21 Oct 2020 11:15:10 +0600</pubDate>
+      
       <guid>https://aperkes.github.io/tags/science/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Videos</title>
       <link>https://aperkes.github.io/tags/videos/</link>
       <pubDate>Wed, 21 Oct 2020 11:15:10 +0600</pubDate>
+      
       <guid>https://aperkes.github.io/tags/videos/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Analysis</title>
       <link>https://aperkes.github.io/tags/analysis/</link>
       <pubDate>Sun, 09 Aug 2020 12:15:10 +0600</pubDate>
+      
       <guid>https://aperkes.github.io/tags/analysis/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Misc</title>
-      <link>https://aperkes.github.io/tags/misc/</link>
-      <pubDate>Sun, 09 Aug 2020 12:15:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/tags/misc/</guid>
-      <description></description>
-    </item>
+    
   </channel>
 </rss>
