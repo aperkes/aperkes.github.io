@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 11:07:10 +0600</lastBuildDate>
     <atom:link href="https://aperkes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Papers</title>
+      <link>https://aperkes.github.io/tags/papers/</link>
+      <pubDate>Tue, 20 May 2025 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/tags/papers/</guid>
+      <description></description>
+    </item>
     <item>
       <title>3D Printing</title>
       <link>https://aperkes.github.io/tags/3d-printing/</link>
