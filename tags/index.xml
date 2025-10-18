@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 20 May 2025 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 11:07:10 +0600</lastBuildDate>
     <atom:link href="https://aperkes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code</title>
+      <link>https://aperkes.github.io/tags/code/</link>
+      <pubDate>Thu, 16 Oct 2025 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>https://aperkes.github.io/tags/misc/</link>
+      <pubDate>Sat, 13 Sep 2025 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/tags/misc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>https://aperkes.github.io/tags/workshop/</link>
+      <pubDate>Sat, 13 Sep 2025 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/tags/workshop/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Papers</title>
       <link>https://aperkes.github.io/tags/papers/</link>
@@ -70,13 +91,6 @@
       <link>https://aperkes.github.io/tags/analysis/</link>
       <pubDate>Sun, 09 Aug 2020 12:15:10 +0600</pubDate>
       <guid>https://aperkes.github.io/tags/analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Misc</title>
-      <link>https://aperkes.github.io/tags/misc/</link>
-      <pubDate>Sun, 09 Aug 2020 12:15:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/tags/misc/</guid>
       <description></description>
     </item>
   </channel>

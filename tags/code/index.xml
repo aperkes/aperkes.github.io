@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Ammon Perkes personal webpage</title>
+    <link>https://aperkes.github.io/tags/code/</link>
+    <description>Recent content in Code on Ammon Perkes personal webpage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 16 Oct 2025 11:07:10 +0600</lastBuildDate>
+    <atom:link href="https://aperkes.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mobileSrc documentation is live!</title>
+      <link>https://aperkes.github.io/blog/blog-post-7/</link>
+      <pubDate>Thu, 16 Oct 2025 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/blog/blog-post-7/</guid>
+      <description>&lt;p&gt;We always get asked how we a) track our videos and b) record our fish. In a future post I’ll outline our main tracking pipelines, but I’m excited to share that our recording pipeline is fully documented and available on github! This includes all of the raspberry pi code that keeps things running smoothly, as well as the code for a supervisor computer that checks for errors and processes videos each night. Some of this will certainly need to be adapted for your specific system (based on your storage situation), but this is a fairly robust toolbox for recording, and it comes with complementary fish jokes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

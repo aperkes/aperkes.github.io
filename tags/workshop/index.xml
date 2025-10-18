@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Ammon Perkes personal webpage</title>
+    <link>https://aperkes.github.io/tags/workshop/</link>
+    <description>Recent content in Workshop on Ammon Perkes personal webpage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 13 Sep 2025 11:07:10 +0600</lastBuildDate>
+    <atom:link href="https://aperkes.github.io/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Annual CV4Bio Trackathon!</title>
+      <link>https://aperkes.github.io/blog/blog-post-6/</link>
+      <pubDate>Sat, 13 Sep 2025 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/blog/blog-post-6/</guid>
+      <description>&lt;p&gt;About 2 years ago, I pitched a Computer Vision workshop for biologists as part of a fellowship. I ended up getting an NSF fellowship instead, but that workshop has been bouncing around in my head for the last couple years. Finally I decided to organize it properly, started making plans, emailing participants, organized funding, and to my surprise, it actually happened, this past weekend!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
