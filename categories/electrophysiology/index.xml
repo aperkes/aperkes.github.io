@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electrophysiology on Ammon Perkes personal webpage</title>
-    <link>http://localhost:1313/categories/electrophysiology/</link>
+    <link>https://aperkes.github.io/categories/electrophysiology/</link>
     <description>Recent content in Electrophysiology on Ammon Perkes personal webpage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     <lastBuildDate>Wed, 27 Jul 2022 11:07:10 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/electrophysiology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aperkes.github.io/categories/electrophysiology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How not to make carbon fiber electrodes</title>
-      <link>http://localhost:1313/jfm/perkes.a.carbonfiber/</link>
+      <link>https://aperkes.github.io/jfm/perkes.a.carbonfiber/</link>
       <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/jfm/perkes.a.carbonfiber/</guid>
+      <guid>https://aperkes.github.io/jfm/perkes.a.carbonfiber/</guid>
       <description>&lt;p&gt;In pursuit of stable, long term neural recordings, I tried to implement and improve Tim Gardner&amp;rsquo;s carbon fiber &lt;a href=&#34;https://iopscience.iop.org/article/10.1088/1741-2560/10/4/046016/meta&#34;&gt;electrodes&lt;/a&gt;. In retrospect, I should have just worked harder to find a place to print the original.&lt;/p&gt;</description>
     </item>
   </channel>
