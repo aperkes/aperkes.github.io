@@ -2,123 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ammon Perkes personal webpage</title>
-    <link>https://aperkes.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ammon Perkes personal webpage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     <lastBuildDate>Thu, 16 Oct 2025 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://aperkes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mobileSrc documentation is live!</title>
-      <link>https://aperkes.github.io/blog/blog-post-7/</link>
+      <link>http://localhost:1313/blog/blog-post-7/</link>
       <pubDate>Thu, 16 Oct 2025 11:07:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/blog/blog-post-7/</guid>
+      <guid>http://localhost:1313/blog/blog-post-7/</guid>
       <description>&lt;p&gt;We always get asked how we a) track our videos and b) record our fish. In a future post I’ll outline our main tracking pipelines, but I’m excited to share that our recording pipeline is fully documented and available on github! This includes all of the raspberry pi code that keeps things running smoothly, as well as the code for a supervisor computer that checks for errors and processes videos each night. Some of this will certainly need to be adapted for your specific system (based on your storage situation), but this is a fairly robust toolbox for recording, and it comes with complementary fish jokes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Annual CV4Bio Trackathon!</title>
-      <link>https://aperkes.github.io/blog/blog-post-6/</link>
+      <link>http://localhost:1313/blog/blog-post-6/</link>
       <pubDate>Sat, 13 Sep 2025 11:07:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/blog/blog-post-6/</guid>
+      <guid>http://localhost:1313/blog/blog-post-6/</guid>
       <description>&lt;p&gt;About 2 years ago, I pitched a Computer Vision workshop for biologists as part of a fellowship. I ended up getting an NSF fellowship instead, but that workshop has been bouncing around in my head for the last couple years. Finally I decided to organize it properly, started making plans, emailing participants, organized funding, and to my surprise, it actually happened, this past weekend!&lt;/p&gt;</description>
     </item>
     <item>
       <title>It&#39;s only a model.</title>
-      <link>https://aperkes.github.io/blog/blog-post-4/</link>
+      <link>http://localhost:1313/blog/blog-post-4/</link>
       <pubDate>Tue, 20 May 2025 11:07:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/blog/blog-post-4/</guid>
+      <guid>http://localhost:1313/blog/blog-post-4/</guid>
       <description>&lt;p&gt;About 2 years ago, I was home sick with Covid wondering how to spend my time while I waited to get back into the lab. We had some experiments slated, which we had proposed for my NSF fellowship in which we had proposed the idea that Bayesian updating was responsible for the winner/effects. We had pitched it as a simple conceptual model, but since I had a few days at home, I thought I could code it up as a proper agent-based simulation, to see if our intuitions were correct. 10 days later, I had a solid simulation with some cool preliminary results. Let’s write it up as a paper, we said. It will be fun, we said.&lt;/p&gt;</description>
     </item>
     <item>
       <title>This just in, songbirds may monitor viscerosensory feedback during song</title>
-      <link>https://aperkes.github.io/blog/blog-post-5/</link>
+      <link>http://localhost:1313/blog/blog-post-5/</link>
       <pubDate>Thu, 15 Feb 2024 11:07:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/blog/blog-post-5/</guid>
+      <guid>http://localhost:1313/blog/blog-post-5/</guid>
       <description>&lt;p&gt;New paper just dropped! This was the first project I worked on at Penn as a grad student and my deepest dive into neuroscience thus far. After pivoting towards computer vision and behavior, Jessie Burke (now at Columbia), took over the final, very technical experiments and wrote the paper to get it to publication.  It’s a cool project, and I am really happy to have been a part of it (though in total honesty, I was happy to move on to less crunchy neuro projects).&lt;/p&gt;</description>
     </item>
     <item>
       <title>How not to make carbon fiber electrodes</title>
-      <link>https://aperkes.github.io/jfm/perkes.a.carbonfiber/</link>
+      <link>http://localhost:1313/jfm/perkes.a.carbonfiber/</link>
       <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/jfm/perkes.a.carbonfiber/</guid>
+      <guid>http://localhost:1313/jfm/perkes.a.carbonfiber/</guid>
       <description>&lt;p&gt;In pursuit of stable, long term neural recordings, I tried to implement and improve Tim Gardner&amp;rsquo;s carbon fiber &lt;a href=&#34;https://iopscience.iop.org/article/10.1088/1741-2560/10/4/046016/meta&#34;&gt;electrodes&lt;/a&gt;. In retrospect, I should have just worked harder to find a place to print the original.&lt;/p&gt;</description>
     </item>
     <item>
       <title>3 years of Science in 6 minutes</title>
-      <link>https://aperkes.github.io/blog/blog-post-3/</link>
+      <link>http://localhost:1313/blog/blog-post-3/</link>
       <pubDate>Wed, 21 Oct 2020 11:15:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/blog/blog-post-3/</guid>
+      <guid>http://localhost:1313/blog/blog-post-3/</guid>
       <description>&lt;p&gt;Back in July, I got to present at the Animal Behavior Society (ABS) virtual conference.&#xA;ABS is always a bit intense, not because the people are mean or intimidating,&#xA;I feel like ABS is one of the most welcoming conferences I&amp;rsquo;ve participated in.&#xA;It&amp;rsquo;s just so much. Most of the talks are 15-30 minutes, and they have about 4 parallel sessions going at once,&#xA;So you spend all day, for several days, running around the venue trying to get to the talks that you want to catch,&#xA;and inevitably you are faced with some impossible dilemmas and you just have to choose.&#xA;A friend of mine described it as a &amp;ldquo;science bender&amp;rdquo;, which I think is pretty accurate.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploration is for suckers</title>
-      <link>https://aperkes.github.io/blog/blog-post-2/</link>
+      <link>http://localhost:1313/blog/blog-post-2/</link>
       <pubDate>Sun, 09 Aug 2020 12:15:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/blog/blog-post-2/</guid>
+      <guid>http://localhost:1313/blog/blog-post-2/</guid>
       <description>&lt;p&gt;I love exploration. When I was a kid, I spent most of my time wandering around the roads and woods near my house.&#xA;I would leave after school on my bike and or roller blades and try to find roads parts of my neighborhood I&amp;rsquo;d never seen,&#xA;or I would walk along the creek that ran though my backyard all the way to where it met the Pearl River.&#xA;I still am always hoping to find new ways to get from place to place in Philly. Exploration is the best.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blogging from the command line</title>
-      <link>https://aperkes.github.io/blog/blog-post-1/</link>
+      <link>http://localhost:1313/blog/blog-post-1/</link>
       <pubDate>Sat, 01 Aug 2020 19:52:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/blog/blog-post-1/</guid>
+      <guid>http://localhost:1313/blog/blog-post-1/</guid>
       <description>&lt;p&gt;When I was 13 or so, I started a Livejournal. I don&amp;rsquo;t remember who got me into Livejournal,&#xA;but I spent hours writing updates, working on my background, color scheme, and profile pics.&#xA;(I think if you had the unpaid version you got a total of three profile picture slots. Memory was&#xA;pretty sparse back then it seems.)&#xA;When facebook came around, I gradually transitioned over. (I remember feeling strongly about the fact&#xA;that facebook was stupid and would never catch on.)&#xA;Like all of us, as Facebook got bigger, I stopped updating by livejournal, or the blogger that replaced it.&#xA;And then I moved to Twitter. Oh, and then I got married, and I had someone to talk to,&#xA;so I didn&amp;rsquo;t have this compulsion to write down all my thoughts on a carefully designed page.&#xA;So this all feels like a return to form, albeit 18 years later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Analysis of Human Observations</title>
-      <link>https://aperkes.github.io/project/aviary-data-mine/</link>
+      <link>http://localhost:1313/project/aviary-data-mine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aperkes.github.io/project/aviary-data-mine/</guid>
+      <guid>http://localhost:1313/project/aviary-data-mine/</guid>
       <description>&lt;h2 id=&#34;careful-analysis-of-aviary-data&#34;&gt;Careful Analysis of Aviary Data&lt;/h2&gt;&#xA;&lt;p&gt;A lot of behavioral data exists that can be used to test hypotheses or identify new ones for future experiments.&#xA;Often this comes down to wrangling old data and looking at it in new ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cowbird husbandry</title>
-      <link>https://aperkes.github.io/project/cowbird-housing/</link>
+      <link>http://localhost:1313/project/cowbird-housing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aperkes.github.io/project/cowbird-housing/</guid>
+      <guid>http://localhost:1313/project/cowbird-housing/</guid>
       <description>&lt;h2 id=&#34;solutions-for-trapping-and-studying-cowbirds&#34;&gt;Solutions for trapping and studying cowbirds&lt;/h2&gt;&#xA;&lt;p&gt;Prior to joining the lab, neither I nor anyone in the lab had trapped or housed cowbirds.&#xA;The older Schmidt lab work had been done in collaboration with David White, who was at the time&#xA;located nearby, so when we were setting out on our own, there were a lot of new things to learn.&lt;/p&gt;</description>
     </item>
     <item>
       <title>John Doe</title>
-      <link>https://aperkes.github.io/author/john-doe/</link>
+      <link>http://localhost:1313/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aperkes.github.io/author/john-doe/</guid>
+      <guid>http://localhost:1313/author/john-doe/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mark Dinn</title>
-      <link>https://aperkes.github.io/author/mark-dinn/</link>
+      <link>http://localhost:1313/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aperkes.github.io/author/mark-dinn/</guid>
+      <guid>http://localhost:1313/author/mark-dinn/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modeling Social Behavior</title>
-      <link>https://aperkes.github.io/project/behavioral-simulation/</link>
+      <link>http://localhost:1313/project/behavioral-simulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aperkes.github.io/project/behavioral-simulation/</guid>
+      <guid>http://localhost:1313/project/behavioral-simulation/</guid>
       <description>&lt;h2 id=&#34;the-puzzle-of-monogamy&#34;&gt;The Puzzle of Monogamy&lt;/h2&gt;&#xA;&lt;p&gt;Cowbirds are monogamous, but as far as we know there is no parental care from males or females,&#xA;and no obvious contribution from males to females outside of gene transfer. Given this, why are cowbirds monogamous?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Posture Analysis</title>
-      <link>https://aperkes.github.io/project/csd-analysis/</link>
+      <link>http://localhost:1313/project/csd-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aperkes.github.io/project/csd-analysis/</guid>
+      <guid>http://localhost:1313/project/csd-analysis/</guid>
       <description>&lt;h2 id=&#34;posture-in-a-box&#34;&gt;Posture in a box&lt;/h2&gt;&#xA;&lt;p&gt;Cowbirds, like many birds, perform Copulation Solicitation Displays in response to sound playbacks.&#xA;One of the original aims of our cowbird work was to record neural activity and correlate it with CSD.&#xA;To do this, we needed a quantitative representation of CSD, and pose generally.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Smart Aviary</title>
-      <link>https://aperkes.github.io/project/smart-aviary/</link>
+      <link>http://localhost:1313/project/smart-aviary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aperkes.github.io/project/smart-aviary/</guid>
+      <guid>http://localhost:1313/project/smart-aviary/</guid>
       <description>&lt;h2 id=&#34;a-new-approach-to-behavioral-observation&#34;&gt;A new approach to behavioral observation&lt;/h2&gt;&#xA;&lt;p&gt;What started as a bit of a pipe dream has grown into a fully fledged project.&#xA;I joined the lab to have the opportunity to develop an aviary that could capture all behavioral&#xA;observations and provide an enormous dataset for behavioral analysis. This has been an enormous project,&#xA;and extremely satisfying to work on. We have recorded 2 seasons (200 days total) of behavior, and are&#xA;nearing completion on the taks of quantifying interractions. This has been a huge effort, and would not be possible&#xA;without the support of the NSF, incredible work by Bernd Pfrommer, Marc Badger, as well as a dozen others who&#xA;have contributed. See our &lt;!-- raw HTML omitted --&gt;aviary project webbsite&lt;!-- raw HTML omitted --&gt; for more information.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The &#39;Song&#39; System</title>
-      <link>https://aperkes.github.io/project/song-system/</link>
+      <link>http://localhost:1313/project/song-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aperkes.github.io/project/song-system/</guid>
+      <guid>http://localhost:1313/project/song-system/</guid>
       <description>&lt;h2 id=&#34;the-not-so-dedicated-song-system&#34;&gt;The not so dedicated song system&lt;/h2&gt;&#xA;&lt;p&gt;This was actually the first project I worked on, and continues to be a major area of research&#xA;in the lab, although my focus is more on behavior.&lt;/p&gt;</description>
     </item>
   </channel>

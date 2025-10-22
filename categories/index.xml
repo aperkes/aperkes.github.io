@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ammon Perkes personal webpage</title>
-    <link>https://aperkes.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Ammon Perkes personal webpage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     <lastBuildDate>Thu, 16 Oct 2025 11:07:10 +0600</lastBuildDate>
-    <atom:link href="https://aperkes.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
-      <link>https://aperkes.github.io/categories/news/</link>
+      <link>http://localhost:1313/categories/news/</link>
       <pubDate>Thu, 16 Oct 2025 11:07:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/categories/news/</guid>
+      <guid>http://localhost:1313/categories/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Electrophysiology</title>
-      <link>https://aperkes.github.io/categories/electrophysiology/</link>
+      <link>http://localhost:1313/categories/electrophysiology/</link>
       <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/categories/electrophysiology/</guid>
+      <guid>http://localhost:1313/categories/electrophysiology/</guid>
       <description></description>
     </item>
     <item>
       <title>Neuroscience</title>
-      <link>https://aperkes.github.io/categories/neuroscience/</link>
+      <link>http://localhost:1313/categories/neuroscience/</link>
       <pubDate>Wed, 27 Jul 2022 11:07:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/categories/neuroscience/</guid>
+      <guid>http://localhost:1313/categories/neuroscience/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
-      <link>https://aperkes.github.io/categories/science/</link>
+      <link>http://localhost:1313/categories/science/</link>
       <pubDate>Wed, 21 Oct 2020 11:15:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/categories/science/</guid>
+      <guid>http://localhost:1313/categories/science/</guid>
       <description></description>
     </item>
     <item>
       <title>PhD Thoughts</title>
-      <link>https://aperkes.github.io/categories/phd-thoughts/</link>
+      <link>http://localhost:1313/categories/phd-thoughts/</link>
       <pubDate>Sun, 09 Aug 2020 12:15:10 +0600</pubDate>
-      <guid>https://aperkes.github.io/categories/phd-thoughts/</guid>
+      <guid>http://localhost:1313/categories/phd-thoughts/</guid>
       <description></description>
     </item>
   </channel>
