@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>New year, new tracking pipeline</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="On the virtues of simplicity">
+  <meta name="author" content="Ammon Perkes">
+  <meta name="generator" content="Hugo 0.151.2">
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/plugins/bootstrap/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/plugins/Ionicons/css/ionicons.min.css">
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/plugins/magnific-popup/magnific-popup.css">
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/plugins/slick/slick.css">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://aperkes.github.io/images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://aperkes.github.io/images/favicon.png" type="image/x-icon">
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+
+<header class="navigation">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        
+        <nav class="navbar">
+          
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+              <img src="https://aperkes.github.io/images/logo2.jpg" alt="Ammon Perkes personal webpage" class="img-responsive">
+            </a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/">Home</a></li>
+              
+              
+              
+              <li><a href="/about">About</a></li>
+              
+              
+              
+              <li><a href="/project">Projects</a></li>
+              
+              
+              
+              <li><a href="/blog">Blog</a></li>
+              
+              
+              
+              <li><a href="/jfm">Journal of Failed Methods</a></li>
+              
+              
+              
+              <li><a href="/contact">Contact</a></li>
+              
+              
+
+              
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+<section class="page-title bg-2" style="background-image: url('https://aperkes.github.io/images/featue-bg.jpg');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>New year, new tracking pipeline</h1>
+          <p>On the virtues of simplicity</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="page-wrapper">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				<div class="post post-single">
+					<h2 class="post-title">New year, new tracking pipeline</h2>
+					<div class="post-meta">
+						<ul>
+              <li><i class="ion-calendar"></i> May 13, 2026</li>
+              <li><i class="ion-android-people"></i>
+                Posted By
+                
+                <a class="text-primary" href="/author/ammon-perkes">Ammon Perkes</a>
+                
+              </li>
+              <li><i class="ion-pricetags"></i> 
+                
+                <a href="/tags/misc">Misc</a>
+								
+              </li>
+            </ul>
+					</div>
+					<div class="post-thumb">
+						<img class="img-responsive" src="/images/blog/blog.BAI.imgs/behaveAIlogo.png" alt="New year, new tracking pipeline">
+					</div>
+					<div class="post-content post-excerpt">
+						<p>Obviously, we’re some time into the year already, but back in November, I got invited by PloS bio to review this paper on a new tracking method called <a href="https://doi.org/10.1371/journal.pbio.3003632">BehaveAI</a>.</p>
+<p>My dear reader. I was not prepared for how much this paper would change my life. When I read the abstract I said to myself, “Well that’s impossible. What they’re promising is impossible.” but they fully delivered. This is maybe the most beautiful piece of tracking tech I have ever seen, it immediately solved a massive problem for us in the lab, and before the paper was even published I had completely rebuilt our tracking pipeline to implement it.</p>
+<p>Stepping back, what does BehaveAI do? It’s designed to solve a simple problem in behavioral ecology: Nature is complex and animals often prefer to not be seen. This means that they many animals have a tendency to disappear into the background.</p>
+<p><img src="/images/blog/blog.BAI.imgs/DavidKatydid.400.png" alt="DavidKatydid.png"></p>
+<p>However, just like the fictional T-rex in Jurassic Park, our vision is (partially) based on movement, and spotting an animal moving over a background is trivially easy.</p>
+<p><img src="/images/blog/blog.BAI.imgs/weiller.500.gif" alt="weiller.gif"></p>
+<p>Now you could use Transformers (of ChatGPT fame), which are a very expensive and complex way to process temporal transitions and use context to parse things, including videos, but for many of us lowly fish biologists, we don’t have the luxury of unlimited processing power. What Troscianko et al (the authors of BehaveAI) did is figure out a simple way to encode behavioral context into a single, highly visual salient image that can be processed by extremely small neural networks (in this case, the Yolo nano models). They do this with frame subtraction, which is one of the first things you learn in an intro to computer vision class, but they color the successive frames differences in a way that encodes position, shape, velocity, and acceleration over multiple frames using a single image that is simpler than the original frame.</p>
+<p><img src="/images/blog/blog.BAI.imgs/behaveMethods.400.png" alt="behaveMethods.png"></p>
+<p>This makes things easy both for the humans doing the annotations and the neural network performing inference. All of this is wrapped into a very user friendly GUI. Now you can label, train, and run neural networks on your laptop (or on a raspberry pi!). I should mention here I have not been paid to hawk BehaveAI (which is free software anyway). I’m just a big fan.</p>
+<p>So for our lab, we often want to track day old babies swimming over gravel. Here’s a picture of what they look like. Can you spot the fish?</p>
+<p><img src="/images/blog/blog.BAI.imgs/baby_clips_cropped_540.400.jpg" alt="baby_clips_cropped_540.jpg"></p>
+<p>How about now?</p>
+<p><img src="/images/blog/blog.BAI.imgs/baby_clips_cropped_540_motion.400.jpg" alt="baby_clips_cropped_540_motion.jpg"></p>
+<p>Up until now, we have been using <a href="https://sleap.ai/">SLEAP</a> (which is itself a breathtakingly beautiful bit of software engineering), but SLEAP has a couple downsides for this job. First, SLEAP is designed to track pose, so it uses somewhat more complex models than we actually need when all we want is to detect an individual. Second, SLEAP is based on a single image, meaning that when the fish is swimming over gravel and functionally invisible, you’re going to have a hard time. In the past, I had combined SLEAP detections with a MOG Background subtraction using the Viterbi algorithm, which was very complicated and clever and I felt very good about myself, especially because it sort of worked. SLEAP could distinguish fish from algae, Background subtraction could distinguish moving things from background, and the Viterbi algorithm selected the most likely position that combined those two detections.</p>
+<p>However, this was computationally pretty slow and barely managed 90% accuracy. In comparison, BehaveAI was practically perfect, and ran at 10x the speed, such that we could retrack all of our data in about a week, in time to submit our paper with the new method. And I haven’t even gotten to the whole point of behaveAI—classifying behavior—which we have used both to spot aggression and recognize tattoo color, but that’s a blog post for another day (or year, given my track record).</p>
+<p>In any case, we now have a cool new tool in our tracking toolset, which I think of as follows:</p>
+<p><strong>Want to classify behavior in less than 6 hours of video?</strong> Just watch the video yourself, it will be faster and more accurate. Really.</p>
+<p><strong>Want to track position of a fish with a perfect background and lighting?</strong> Anything will do, I like using the MOG Background subtraction built into OpenCV. <a href="https://github.com/vivekhsridhar/tracktor">Tracktor</a> is also nice.</p>
+<p><strong>Want to track the position of a fish over backgrounds ranging from “not quite perfect” to “why did I ever allow them to put gravel in that fish tank”?</strong><a href="https://github.com/troscianko/BehaveAI"> BehaveAI</a></p>
+<p><strong>Want to track the pose of a fish? (and they are at least visible in the frame)</strong> <a href="https://sleap.ai/">SLEAP</a></p>
+<p><strong>Want to distinguish the id of visually similar fish?</strong> <a href="https://idtracker.ai/latest/">idTracker</a></p>
+<p><strong>Need to do something else?</strong> I dunno, ask me about it, I probably have ideas.</p>
+<p>~ap</p>
+
+					</div>
+					<div class="post-comments">
+						
+					</div>
+				</div>
+			</div>
+      <div class="col-md-4">
+        <aside class="sidebar"><div class="widget widget-latest-post">
+    <h4 class="widget-title">Latest Posts</h4>
+    
+    <div class="media">
+      <a class="pull-left" href="https://aperkes.github.io/blog/blogpost-bai/">
+        <img class="media-object" src="/images/blog/blog.BAI.imgs/behaveAIlogo.png" alt="New year, new tracking pipeline">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="https://aperkes.github.io/blog/blogpost-bai/">New year, new tracking pipeline</a></h4>
+        <p><p>Obviously, we’re some time into the year already, …</p></p>
+      </div>
+    </div>
+    
+    <div class="media">
+      <a class="pull-left" href="https://aperkes.github.io/blog/blog-post-7/">
+        <img class="media-object" src="/images/blog/mosaic.png" alt="mobileSrc documentation is live!">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="https://aperkes.github.io/blog/blog-post-7/">mobileSrc documentation is live!</a></h4>
+        <p><p>We always get asked how we a) track our videos and …</p></p>
+      </div>
+    </div>
+    
+    <div class="media">
+      <a class="pull-left" href="https://aperkes.github.io/blog/blog-post-6/">
+        <img class="media-object" src="/images/blog/linkColors.png" alt="First Annual CV4Bio Trackathon!">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="https://aperkes.github.io/blog/blog-post-6/">First Annual CV4Bio Trackathon!</a></h4>
+        <p><p>About 2 years ago, I pitched a Computer Vision …</p></p>
+      </div>
+    </div>
+    
+    <div class="media">
+      <a class="pull-left" href="https://aperkes.github.io/blog/blog-post-4/">
+        <img class="media-object" src="/images/blog/Model.F1.png" alt="It&#39;s only a model.">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="https://aperkes.github.io/blog/blog-post-4/">It&#39;s only a model.</a></h4>
+        <p><p>About 2 years ago, I was home sick with Covid …</p></p>
+      </div>
+    </div>
+    
+  </div><div class="widget widget-category">
+    <h4 class="widget-title">Categories</h4>
+    <ul class="widget-category-list">
+      <li><a href="/categories/electrophysiology">Electrophysiology</a></li>
+      <li><a href="/categories/neuroscience">Neuroscience</a></li>
+      <li><a href="/categories/news">News</a></li>
+      <li><a href="/categories/phd-thoughts">Phd thoughts</a></li>
+      <li><a href="/categories/science">Science</a></li>
+    </ul>
+  </div><div class="widget widget-tag">
+    <h4 class="widget-title">Tags</h4>
+    <ul class="widget-tag-list">
+      <li><a href="/tags/3d-printing">3d printing</a></li>
+      <li><a href="/tags/analysis">Analysis</a></li>
+      <li><a href="/tags/carbon-fiber">Carbon fiber</a></li>
+      <li><a href="/tags/code">Code</a></li>
+      <li><a href="/tags/data">Data</a></li>
+      <li><a href="/tags/electrodes">Electrodes</a></li>
+      <li><a href="/tags/electrophysiology">Electrophysiology</a></li>
+      <li><a href="/tags/misc">Misc</a></li>
+      <li><a href="/tags/papers">Papers</a></li>
+      <li><a href="/tags/science">Science</a></li>
+      <li><a href="/tags/videos">Videos</a></li>
+      <li><a href="/tags/workshop">Workshop</a></li>
+    </ul>
+  </div></aside>
+
+      </div>
+		</div>
+	</div>
+</section>
+
+<footer class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="footer-manu">
+					<ul>
+            
+            <li><a href="https://aperkes.github.io/about">About</a></li>
+            
+            <li><a href="https://aperkes.github.io/project">Projects</a></li>
+            
+            <li><a href="https://aperkes.github.io/contact">Contact</a></li>
+            
+					</ul>
+				</div>
+				<p class="copyright"></p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+
+<script src="https://aperkes.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/shuffle/shuffle.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/google-map/gmap.js"></script>
+
+
+
+
+<script src="https://aperkes.github.io/js/script.min.js"></script>
+
+
+</body>
+
+</html>

@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 16 Oct 2025 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:07:10 +0600</lastBuildDate>
     <atom:link href="https://aperkes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New year, new tracking pipeline</title>
+      <link>https://aperkes.github.io/blog/blogpost-bai/</link>
+      <pubDate>Wed, 13 May 2026 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/blog/blogpost-bai/</guid>
+      <description>&lt;p&gt;Obviously, we’re some time into the year already, but back in November, I got invited by PloS bio to review this paper on a new tracking method called &lt;a href=&#34;https://doi.org/10.1371/journal.pbio.3003632&#34;&gt;BehaveAI&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My dear reader. I was not prepared for how much this paper would change my life. When I read the abstract I said to myself, “Well that’s impossible. What they’re promising is impossible.” but they fully delivered. This is maybe the most beautiful piece of tracking tech I have ever seen, it immediately solved a massive problem for us in the lab, and before the paper was even published I had completely rebuilt our tracking pipeline to implement it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>mobileSrc documentation is live!</title>
       <link>https://aperkes.github.io/blog/blog-post-7/</link>
