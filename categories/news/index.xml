@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 13 May 2026 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:07:10 +0600</lastBuildDate>
     <atom:link href="https://aperkes.github.io/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There&#39;s more than one way to be a professional climber.</title>
+      <link>https://aperkes.github.io/blog/blogpost-climbing/</link>
+      <pubDate>Tue, 07 Jul 2026 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/blog/blogpost-climbing/</guid>
+      <description>&lt;p&gt;Recently, I’ve been interested in the idea of being able to afford the cost of living in California, so I’ve been looking at industry jobs. There are plenty of generic data science jobs that I am qualified for and may very well apply for, but it always seems a shame to not take advantage of the past decade I’ve spent analyzing behavior from video data, so I’m trying to track down a job in that realm, and last week I saw that this climbing startup, Belay AI, is maybe hiring soon. Being able to merge climbing and behavioral quantification would be sort of a dream job for me, so I’ve been reflecting on what computer vision has to offer climbers. I’ve spent a lot of time sorting through joint angle data and other metrics of behavior, and it’s not always straightforward to get things out beyond what is already obvious to human observers. I think it’s cool to see yourself tracked, no doubt, but what’s the actual value added?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New year, new tracking pipeline</title>
       <link>https://aperkes.github.io/blog/blogpost-bai/</link>

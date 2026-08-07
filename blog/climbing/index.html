@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title></title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="This is Ammon&#39;s homepage">
+  <meta name="author" content="Ammon Perkes">
+  <meta name="generator" content="Hugo 0.151.2">
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/plugins/bootstrap/bootstrap.min.css">
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/plugins/Ionicons/css/ionicons.min.css">
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/plugins/magnific-popup/magnific-popup.css">
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/plugins/slick/slick.css">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://aperkes.github.io/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://aperkes.github.io/images/favicon.png" type="image/x-icon">
+  <link rel="icon" href="https://aperkes.github.io/images/favicon.png" type="image/x-icon">
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+
+<header class="navigation">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        
+        <nav class="navbar">
+          
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+              <img src="https://aperkes.github.io/images/logo2.jpg" alt="Ammon Perkes personal webpage" class="img-responsive">
+            </a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              
+              
+              <li><a href="/">Home</a></li>
+              
+              
+              
+              <li><a href="/about">About</a></li>
+              
+              
+              
+              <li><a href="/project">Projects</a></li>
+              
+              
+              
+              <li><a href="/blog">Blog</a></li>
+              
+              
+              
+              <li><a href="/jfm">Journal of Failed Methods</a></li>
+              
+              
+              
+              <li><a href="/contact">Contact</a></li>
+              
+              
+
+              
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+<section class="page-title bg-2" style="background-image: url('https://aperkes.github.io/');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1></h1>
+          <p></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="page-wrapper">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				<div class="post post-single">
+					<h2 class="post-title"></h2>
+					<div class="post-meta">
+						<ul>
+              <li><i class="ion-calendar"></i> January 1, 0001</li>
+              <li><i class="ion-android-people"></i>
+                Posted By
+                
+                <a class="text-primary" href="/author/"></a>
+                
+              </li>
+              <li><i class="ion-pricetags"></i> 
+                
+              </li>
+            </ul>
+					</div>
+					<div class="post-thumb">
+						<img class="img-responsive" src="/" alt="">
+					</div>
+					<div class="post-content post-excerpt">
+						<p>Recently, I’ve been interested in the idea of being able to afford the cost of living in California, so I’ve been looking at industry jobs. There are plenty of generic data science jobs that I am qualified for and may very well apply for, but it always seems a shame to not take advantage of the past decade I’ve spent analyzing behavior from video data, so I’m trying to track down a job in that realm, and last week I saw that this climbing startup, Belay AI, is maybe hiring soon. Being able to merge climbing and behavioral quantification would be sort of a dream job for me, so I’ve been reflecting on what computer vision has to offer climbers. I’ve spent a lot of time sorting through joint angle data and other metrics of behavior, and it’s not always straightforward to get things out beyond what is already obvious to human observers. I think it’s cool to see yourself tracked, no doubt, but what’s the actual value added?</p>
+<p>Well, I wrote down a bunch of ideas of what you could do with the pose data, but one of the best things I thought of is actually a much simpler tool, which is one that comes up in animal behavior quite often: live action recognition. So, let’s say you’ve decided to become a Serious Climber™, and you want to improve. One of the first suggestions is to record yourself climbing. But this means you have to set up your phone, walk over to it, turn it on, turn it off, or, alternatively, you have to sort through hours of footage. But if your phone just knew when you were climbing, it could do all that for you.</p>
+<p><img src="climbingScaled.png" alt="climbingScaled.png"></p>
+<p>So I spent some time this morning building a little climbing detector. I’m using BehaveAI again, which seems well suited for this, because the motion-based detection should generalize across backgrounds and lighting conditions well, and also run on extremely small yolo models, which can run live even on very small processors, which is important if you wanted to run this locally on your phone. This means you could just put your phone down, and it would store each attempt session as a separate little video. It would also be able to serve as a workout tracker, grabbing as a byproduct total time on the wall, falls to sends, etc. </p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/n83LGLy0Yjc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+<p>Is this anything? Hard to say. Obviously it would need to be trained on more data and would take more than half an hour to get to work reliably. But as someone who has spent a fair bit working on both climbing and computer vision, it was fun to think a bit about what I would actually pitch as useful. If you want me to actually build this for you, hit me up. I will happily make it happen for the low, low cost of my living expenses</p>
+
+					</div>
+					<div class="post-comments">
+						
+					</div>
+				</div>
+			</div>
+      <div class="col-md-4">
+        <aside class="sidebar"><div class="widget widget-latest-post">
+    <h4 class="widget-title">Latest Posts</h4>
+    
+    <div class="media">
+      <a class="pull-left" href="https://aperkes.github.io/blog/blogpost-climbing/">
+        <img class="media-object" src="/images/blog/blog.climbing.imgs/banner_large.png" alt="There&#39;s more than one way to be a professional climber.">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="https://aperkes.github.io/blog/blogpost-climbing/">There&#39;s more than one way to be a professional climber.</a></h4>
+        <p><p>Recently, I’ve been interested in the idea of …</p></p>
+      </div>
+    </div>
+    
+    <div class="media">
+      <a class="pull-left" href="https://aperkes.github.io/blog/blogpost-bai/">
+        <img class="media-object" src="/images/blog/blog.BAI.imgs/behaveAIlogo.png" alt="New year, new tracking pipeline">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="https://aperkes.github.io/blog/blogpost-bai/">New year, new tracking pipeline</a></h4>
+        <p><p>Obviously, we’re some time into the year already, …</p></p>
+      </div>
+    </div>
+    
+    <div class="media">
+      <a class="pull-left" href="https://aperkes.github.io/blog/blog-post-7/">
+        <img class="media-object" src="/images/blog/mosaic.png" alt="mobileSrc documentation is live!">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="https://aperkes.github.io/blog/blog-post-7/">mobileSrc documentation is live!</a></h4>
+        <p><p>We always get asked how we a) track our videos and …</p></p>
+      </div>
+    </div>
+    
+    <div class="media">
+      <a class="pull-left" href="https://aperkes.github.io/blog/blog-post-6/">
+        <img class="media-object" src="/images/blog/linkColors.png" alt="First Annual CV4Bio Trackathon!">
+      </a>
+      <div class="media-body">
+        <h4 class="media-heading"><a href="https://aperkes.github.io/blog/blog-post-6/">First Annual CV4Bio Trackathon!</a></h4>
+        <p><p>About 2 years ago, I pitched a Computer Vision …</p></p>
+      </div>
+    </div>
+    
+  </div><div class="widget widget-category">
+    <h4 class="widget-title">Categories</h4>
+    <ul class="widget-category-list">
+      <li><a href="/categories/electrophysiology">Electrophysiology</a></li>
+      <li><a href="/categories/neuroscience">Neuroscience</a></li>
+      <li><a href="/categories/news">News</a></li>
+      <li><a href="/categories/phd-thoughts">Phd thoughts</a></li>
+      <li><a href="/categories/science">Science</a></li>
+    </ul>
+  </div><div class="widget widget-tag">
+    <h4 class="widget-title">Tags</h4>
+    <ul class="widget-tag-list">
+      <li><a href="/tags/3d-printing">3d printing</a></li>
+      <li><a href="/tags/analysis">Analysis</a></li>
+      <li><a href="/tags/carbon-fiber">Carbon fiber</a></li>
+      <li><a href="/tags/climbing">Climbing</a></li>
+      <li><a href="/tags/code">Code</a></li>
+      <li><a href="/tags/data">Data</a></li>
+      <li><a href="/tags/electrodes">Electrodes</a></li>
+      <li><a href="/tags/electrophysiology">Electrophysiology</a></li>
+      <li><a href="/tags/misc">Misc</a></li>
+      <li><a href="/tags/papers">Papers</a></li>
+      <li><a href="/tags/science">Science</a></li>
+      <li><a href="/tags/videos">Videos</a></li>
+      <li><a href="/tags/workshop">Workshop</a></li>
+    </ul>
+  </div></aside>
+
+      </div>
+		</div>
+	</div>
+</section>
+
+<footer class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="footer-manu">
+					<ul>
+            
+            <li><a href="https://aperkes.github.io/about">About</a></li>
+            
+            <li><a href="https://aperkes.github.io/project">Projects</a></li>
+            
+            <li><a href="https://aperkes.github.io/contact">Contact</a></li>
+            
+					</ul>
+				</div>
+				<p class="copyright"></p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+
+<script src="https://aperkes.github.io/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/slick/slick.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/shuffle/shuffle.min.js"></script>
+
+<script src="https://aperkes.github.io/plugins/google-map/gmap.js"></script>
+
+
+
+
+<script src="https://aperkes.github.io/js/script.min.js"></script>
+
+
+</body>
+
+</html>

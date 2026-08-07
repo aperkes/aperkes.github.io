@@ -7,12 +7,19 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Site via Hugo. Theme: Airspace, copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 13 May 2026 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 11:07:10 +0600</lastBuildDate>
     <atom:link href="https://aperkes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Climbing</title>
+      <link>https://aperkes.github.io/tags/climbing/</link>
+      <pubDate>Tue, 07 Jul 2026 11:07:10 +0600</pubDate>
+      <guid>https://aperkes.github.io/tags/climbing/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Misc</title>
       <link>https://aperkes.github.io/tags/misc/</link>
-      <pubDate>Wed, 13 May 2026 11:07:10 +0600</pubDate>
+      <pubDate>Tue, 07 Jul 2026 11:07:10 +0600</pubDate>
       <guid>https://aperkes.github.io/tags/misc/</guid>
       <description></description>
     </item>
